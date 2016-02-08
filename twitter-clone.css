@@ -34,6 +34,7 @@ body {
 	line-height: 1;
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
+    background-color: #E8E8E8;
 }
 
 a {
@@ -177,6 +178,7 @@ aside {
 
 .username {
     font-size: 16pt;
+    color: darkolivegreen;
 }
 
 .date {
